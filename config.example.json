@@ -1,0 +1,8 @@
+{
+  "refresh_minutes": 5,
+  "metrics": [
+    { "name": "steps", "label": "Steps" },
+    { "name": "heart_rate_resting", "label": "Resting HR" },
+    { "name": "sleep_duration", "label": "Sleep (hrs)" }
+  ]
+}
